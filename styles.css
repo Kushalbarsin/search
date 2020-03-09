@@ -1,0 +1,38 @@
+body{
+    background-color:beige;
+  }
+  
+hr{
+   
+    border-style:none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 5px;
+    width: 10%;
+    
+  }
+
+h1{
+  
+    font-size: 5rem;
+    color: teal;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px rebeccapurple,
+                 2px 2px 1px rebeccapurple;
+    text-align: center;
+    letter-spacing: 2px;
+  
+
+}
+
+h3{
+  color: #66BFBF;
+}
+
+p{
+  color: rebeccapurple;
+}
+
+td{
+  color: coral;
+}
